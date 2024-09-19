@@ -1,0 +1,11 @@
+# virtualenv
+checkimg/
+
+# Image Extensions
+.jpg
+.png
+.jpeg
+.gif
+.bmp
+.tiff
+.JPG
